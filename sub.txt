@@ -1,5 +1,5 @@
 //profile-title: base64:U25lYWtpZnlWUE4oRXhwOkFwcjIwKQ==
-//profile-update-interval: 12
-//subscription-userinfo: upload=0; download=0; total=1000; expire=0
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=1073741824; expire=0
 
 warp://auto#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷
