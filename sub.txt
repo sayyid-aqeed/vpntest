@@ -1,1 +1,4 @@
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+
 warp://auto#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷
