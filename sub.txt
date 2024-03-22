@@ -1,4 +1,4 @@
-//profile-title: base64:U25lYWtpZnlWUE4gKEV4cDogQXByIDIyKQ==
+//profile-title: Aqeed (Exp: Apr 20)
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=1000; expire=0
 
